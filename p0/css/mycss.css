@@ -1,0 +1,46 @@
+p {
+    margin: 0em 0em 1em 1em;
+    line-height: 1.4285em;
+    color: #7f4f4f;
+  }
+
+body {
+    background:#ffeaea;
+    line-height: 2em;
+    font-family: "Times New Roman";
+    font-size: 14px;
+}
+
+#place {
+    margin-top: 2em;
+}
+
+.ui.button, .ui.button:active, .ui.button:focus {
+    background: #ffb7b7;
+    color: white;
+}
+
+.ui.button:hover {
+    background:#ffc5c5;
+    color: white;
+}
+
+.ui.segment {
+    font-size: larger;
+}
+
+
+.ui.header:first-child {
+    margin-top: 1rem;
+}
+
+
+
+.ui.container {
+    text-align: center;
+}
+
+.ui.header {
+    font-family: 'DM Mono', monospace;
+    color: #4c2f2f;
+}
