@@ -1,4 +1,4 @@
-have a look <a href = "https://hacoeur.github.io/collegeProjects/" target = "_blank">here</a> 
+have a look <a href = "https://hacoeur.github.io/collegeProjects/" target="_blank">here</a> 
 
 1. quote generator _(html/css(semantic UI)/js)_
 2. learning project - based on the CookBookApp _(figma)_
