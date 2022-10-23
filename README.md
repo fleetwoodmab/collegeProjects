@@ -7,4 +7,4 @@ have a look <a href = "https://hacoeur.github.io/collegeProjects/" target="_blan
 5. MyGallery - web app _(html/css/js/node.js + json)_
 6. hydroApp - console app _(kotlin)_
 
--- always under update :) --
+
